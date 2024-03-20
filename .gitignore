@@ -2,3 +2,5 @@ data/
 __pycache__
 raw_data.pkl
 set.pkl
+
+venv/
